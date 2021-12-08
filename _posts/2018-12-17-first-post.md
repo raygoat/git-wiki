@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# First post - An example of blogging
+# First post - An example of blogging 2
 
 Welcome to Git Wiki first post!
 
